@@ -1,0 +1,3 @@
+En la carpeta html, la página de signup y la de login están completas. Quisiera conectar el botón de cerrar sesión del index con la página login. 
+Es decir, cuando el usuario hace click en "cerrar sesión", que se redirija a "login".
+
